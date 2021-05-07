@@ -7,6 +7,7 @@
    **c.** Using **JDK version 13** and **Tomcate version 8.5** to implement the Java Servlet or provides a web server environment in which Java code can run. <br />
    **d.** Here we used AES (Advanced Encryption Standard) for encryption, AES algorithm is a symmetrical block cipher algorithm that takes plain text in blocks of 128 bits and converts them to ciphertext using keys of 128, 192, and 256 bits (we used key lenght of 16 bytes which is 128 bits for Encryption). <br />
    
+   **Note:** The directory or file structure is used acrroding to the MacOS, you can change it according to your system within the source code.
 2. First we have to create a **Servlet Project** (You also Create a Simple Java project which have all the dependencies or jar according to **Servlet**) and implement the folder or file structure as shown below:
 
     ![Screenshot 2021-05-07 at 12 54 47 PM](https://user-images.githubusercontent.com/46700867/117413392-8b49e200-af33-11eb-91ab-3a181a8018ae.png)
